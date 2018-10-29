@@ -1,0 +1,45 @@
+.HackCard {
+  min-width: 300px;
+  display: flex;
+  flex-direction: row;
+
+  > div {
+    flex: 1;
+  }
+
+  .startDate {
+    max-width: 75px;
+    padding-right: 10px;
+    border-right: 3px solid grey;
+    text-align: right;
+    .day {
+      font-size: 60px;
+      color: hsl(0, 0%, 10%);
+    }
+    .month {
+      font-size: 20px;
+      color: hsl(0, 0%, 40%);
+    }
+    .year {
+      font-size: 15px;
+      color: hsl(0, 0%, 70%);
+    }
+  }
+
+  .content {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    .contentMain {
+      .header {
+        p {
+          margin-top: 0px;
+        }
+        > p {
+          //name
+          font-size: 30px;
+        }
+      }
+    }
+  }
+}

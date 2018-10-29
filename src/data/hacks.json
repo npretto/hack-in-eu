@@ -1,0 +1,18 @@
+[
+  {
+    "name": "HackUAB",
+    "description": "HackUAB, a 36-hour hackathon hosted at the Autonomous University of Barcelona, brings together people of all experience levels, majors and backgrounds to UAB. HackUAB provides the space and the resources for you to express your creativity, ingenuity, and determination to create anything you want to.",
+    "location": {
+      "name": "Autonomous University of Barcelona",
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "studentsOnly": true,
+    "startDate": "2019-02-15",
+    "endDate": "2019-02-17",
+    "duration": 36,
+    "url": "https://hackuab.com/",
+    "applicationDeadline": "2019-02-01T01:31:00.000Z",
+    "travelReimbursement": true
+  }
+]
