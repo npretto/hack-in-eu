@@ -14,5 +14,21 @@
     "url": "https://hackuab.com/",
     "applicationDeadline": "2019-02-01T01:31:00.000Z",
     "travelReimbursement": true
+  },
+  {
+    "name": "Hack.Moscow",
+    "description": "Hack.Moscow is one of the largest international hackathons launched in Russia for the community of tech geeks and developers. If you feel up for the challenge and are interested in coding and developing your own digital products, bring your skill set to the event and put it in play working on something cool.",
+    "location": {
+      "name": "1C: Software development and education center",
+      "address": "Dmitrovskoye Shosse, 9",
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    "studentsOnly": false,
+    "startDate": "2019-10-26",
+    "endDate": "2019-10-28",
+    "duration": 36,
+    "url": "https://hack.moscow/",
+    "travelReimbursement": false
   }
 ]
