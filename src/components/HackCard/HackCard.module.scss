@@ -2,6 +2,11 @@
   min-width: 300px;
   display: flex;
   flex-direction: row;
+  margin-bottom: 5px;
+
+  &:hover {
+    background-color: rgb(235, 247, 247);
+  }
 
   > div {
     flex: 1;
