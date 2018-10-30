@@ -14,5 +14,22 @@
     "url": "https://hackuab.com/",
     "applicationDeadline": "2019-02-01T01:31:00.000Z",
     "travelReimbursement": true
+  },
+  {
+    "name": "Energy Blockchain Hackathon",
+    "description": "Swisspower And The Energy Web Foundation Will Host Switzerland’s First Hackathon Focused On Blockchain-Solutions For The Energy Sector.",
+    "location": {
+      "name": "INNOSpace",
+      "address": "Gurtenbrauerei 31, 3084 Köniz",
+      "city": "Bern",
+      "country": "Switzerland"
+    },
+    "studentsOnly": false,
+    "startDate": "2018-12-03",
+    "endDate": "2018-12-05",
+    "duration": 48,
+    "url": "https://pioneers.io/energy-blockchain-hack",
+    "applicationDeadline": "2018-11-09T00:00:00.000Z",
+    "travelReimbursement": false
   }
 ]
