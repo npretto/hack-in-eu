@@ -29,5 +29,19 @@
     "url": "https://hackyeah.pl/",
     "applicationDeadline": "2018-10-22T00:00:00.000Z",
     "travelReimbursement": false
+  },
+  {
+    "name": "START Hack",
+    "description": "START Hack is an anually organized hackathon in St. Gallen, Switzerland. More than 350 hackers from all over the world get together to work on a challenge or their own project.",
+    "location": {
+      "city": "St. Gallen",
+      "country": "Switzerland"
+    },
+    "studentsOnly": false,
+    "startDate": "2019-03-08",
+    "endDate": "2019-03-10",
+    "duration": 48,
+    "url": "https://starthack.ch/",
+    "travelReimbursement": false
   }
 ]
