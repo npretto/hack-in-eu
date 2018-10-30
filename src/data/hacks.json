@@ -14,5 +14,21 @@
     "url": "https://hackuab.com/",
     "applicationDeadline": "2019-02-01T01:31:00.000Z",
     "travelReimbursement": true
+  },
+  {
+    "name": "Vertical Innovation Hackathon",
+    "description": "Vertical Innovation Hackathon is a 24 hour event that brings together creatives and developers to conceive new ideas and projects. The event is realized by IDM Ecosystem ICT & Automation. Vertical Innovation Hackathon 2018 is supported by the project DAVINCI, funded by ERDF (European Regional Development Fund) program.",
+    "location": {
+      "name": "NOI Techpark",
+      "address": "Via Volta 13/A",
+      "city": "Bolzano",
+      "country": "Italy"
+    },
+    "studentsOnly": false,
+    "startDate": "2018-11-16",
+    "endDate": "2018-11-17",
+    "duration": 24,
+    "url": "https://hackathon.bz.it/",
+    "travelReimbursement": false
   }
 ]
