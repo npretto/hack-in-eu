@@ -14,5 +14,21 @@
     "url": "https://hackuab.com/",
     "applicationDeadline": "2019-02-01T01:31:00.000Z",
     "travelReimbursement": true
+  },
+  {
+    "name": "HackYeah",
+    "description": "After a successful edition in 2017, once again we invite developers and hackers to join HackYeah. This year, with over 2500 participants, it’s gonna be the biggest stationary hackathon… in the world!",
+    "location": {
+      "name": "Autonomous University of Barcelona",
+      "city": "Warsaw",
+      "country": "Poland"
+    },
+    "studentsOnly": false,
+    "startDate": "2018-11-24",
+    "endDate": "2018-11-25",
+    "duration": 24,
+    "url": "https://hackyeah.pl/",
+    "applicationDeadline": "2018-10-22T00:00:00.000Z",
+    "travelReimbursement": false
   }
 ]
