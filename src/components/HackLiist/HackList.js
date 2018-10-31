@@ -6,8 +6,8 @@ export class HackList extends Component {
     const { hacks } = this.props;
     return (
       <div>
-        {hacks.map(hack => (
-          <HackCard {...hack} />
+        {hacks.map((hack, i) => (
+          <HackCard {...hack} key={i} />
         ))}
       </div>
     );
