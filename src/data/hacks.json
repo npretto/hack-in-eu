@@ -126,5 +126,22 @@
     "url": "https://hacknotts.com/",
     "applicationDeadline": "2018-11-23T00:00:00.000Z",
     "travelReimbursement": false
+  },
+  {
+    "name": "Oxford Hack",
+    "description": "OxfordHack is a hackathon that brings creative minds together to solve challenging problems. Whether you want to build an app, game, website, or simply tinker with hardware, we will provide you the space and the support of our mentors to make your idea come true!",
+    "location": {
+      "name": "Mathematical Institute",
+      "address": "Andrew Wiles Building, University of Oxford, Radcliffe Observatory Quarter, Woodstock Rd",
+      "city": "Oxford",
+      "country": "United Kingdom"
+    },
+    "studentsOnly": false,
+    "startDate": "2018-11-24",
+    "endDate": "2018-11-25",
+    "duration": 24,
+    "url": "http://www.oxfordhack.uk/",
+    "applicationDeadline": "2018-11-23T00:00:00.000Z",
+    "travelReimbursement": false
   }
 ]
