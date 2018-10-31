@@ -109,5 +109,22 @@
     "url": "https://durhack.com/",
     "applicationDeadline": "2018-11-09T00:00:00.000Z",
     "travelReimbursement": true
+  },
+  {
+    "name": "Hack Notts",
+    "description": "HackNotts is a 24 hour Hackathon in Nottingham. Students will team up to learn about tech and create cool stuff.",
+    "location": {
+      "name": "School of Computer Science",
+      "address": "School of Computer Science, Jubilee Campus, Wollaton Road, NG8 1 BB ",
+      "city": "Nottingam",
+      "country": "United Kingdom"
+    },
+    "studentsOnly": true,
+    "startDate": "2018-11-24",
+    "endDate": "2018-11-25",
+    "duration": 24,
+    "url": "https://hacknotts.com/",
+    "applicationDeadline": "2018-11-23T00:00:00.000Z",
+    "travelReimbursement": false
   }
 ]
