@@ -126,5 +126,39 @@
     "url": "https://hacknotts.com/",
     "applicationDeadline": "2018-11-23T00:00:00.000Z",
     "travelReimbursement": false
+  },
+  {
+    "name": "Oxford Hack",
+    "description": "OxfordHack is a hackathon that brings creative minds together to solve challenging problems. Whether you want to build an app, game, website, or simply tinker with hardware, we will provide you the space and the support of our mentors to make your idea come true!",
+    "location": {
+      "name": "Mathematical Institute",
+      "address": "Andrew Wiles Building, University of Oxford, Radcliffe Observatory Quarter, Woodstock Rd",
+      "city": "Oxford",
+      "country": "United Kingdom"
+    },
+    "studentsOnly": false,
+    "startDate": "2018-11-24",
+    "endDate": "2018-11-25",
+    "duration": 24,
+    "url": "http://www.oxfordhack.uk/",
+    "applicationDeadline": "2018-11-23T00:00:00.000Z",
+    "travelReimbursement": false
+  },
+  {
+    "name": "Royal Hackaway",
+    "description": "Open to university students from the UK and around the world, in this 24 hour hackathon you'll work as a group to build a project. You'll pick up new skills, try out new tech, and meet new people. This is our second time running this event, and we're excited to create a more inclusive and rewarding event for all. ",
+    "location": {
+      "name": "Windsor Building",
+      "address": " TW20 0EX",
+      "city": "Egham",
+      "country": "United Kingdom"
+    },
+    "studentsOnly": false,
+    "startDate": "2019-02-02",
+    "endDate": "2018-02-02",
+    "duration": 24,
+    "url": "https://royalhackaway.com/hackaway2019",
+    "applicationDeadline": "2018-02-01T00:00:00.000Z",
+    "travelReimbursement": false
   }
 ]
