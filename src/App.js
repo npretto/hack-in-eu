@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import Home from "./pages/Home";
-import { getHacks } from "./services/getHacks";
+import { getSplittedHacks } from "./services/getHacks";
 
 class App extends Component {
   render() {
-    return <Home hacks={getHacks()} />;
+    return <Home hacks={getSplittedHacks()} />;
   }
 }
 
