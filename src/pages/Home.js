@@ -6,7 +6,7 @@ export default class Home extends Component {
     const { hacks } = this.props;
     return (
       <div>
-        <h1> Hackathons in europe: </h1>
+        <h1> Upcoming Hackathons in europe: </h1>
         <HackList hacks={hacks} />
         <br />
         <br />

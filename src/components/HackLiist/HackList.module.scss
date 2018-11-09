@@ -1,0 +1,15 @@
+.HackList {
+  .Year {
+    .Month {
+      padding-left: 20px;
+
+      &.Empty {
+        size: 20px;
+        color: gray;
+        h2 {
+          margin: 2px;
+        }
+      }
+    }
+  }
+}
