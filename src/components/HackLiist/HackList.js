@@ -1,6 +1,7 @@
 import format from "date-fns/format";
 import React, { Component } from "react";
 import HackCard from "../HackCard";
+import cl from "classnames";
 import s from "./HackList.module.scss";
 
 export class HackList extends Component {
@@ -17,8 +18,17 @@ export class HackList extends Component {
             {/* ITERATE OVER MONTHS */}
 
             {Object.entries(data).map(([month, hacks], i) => (
-              <div className={s.Month} key={month}>
-                <h2> {format(`2000/${parseInt(month) + 1}/01`, "MMMM")}</h2>
+              <div
+                className={cl([s.Month, hacks.length === 0 && s.Empty])}
+                key={month}
+              >
+                <h2
+                  {...(hacks.length === 0
+                    ? { title: "No hacks added for this month so far :(" }
+                    : {})}
+                >
+                  {format(`2000/${parseInt(month) + 1}/01`, "MMMM")}
+                </h2>
 
                 {/* ITERATE OVER HACKS */}
 
