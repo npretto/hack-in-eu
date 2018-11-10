@@ -21,3 +21,4 @@ calendar.events(
 // console.log(calendar.toString());
 
 fs.writeFileSync("./public/hacks-in-eu.ics", calendar.toString());
+fs.writeFileSync("./public/hack-in-eu.ics", calendar.toString());
