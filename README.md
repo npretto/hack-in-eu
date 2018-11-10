@@ -1,3 +1,5 @@
+# Hack in eu [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+
 Website live: https://hack-in-eu.netlify.com
 
 I couldn't find an updated list of hackathons in europe (or a working website) so I decided to make my own.
