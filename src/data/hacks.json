@@ -160,5 +160,21 @@
     "url": "https://royalhackaway.com/hackaway2019",
     "applicationDeadline": "2018-02-01T00:00:00.000Z",
     "travelReimbursement": false
+  },
+  {
+    "name": "BASF Hackathon - Coding Chemistry",
+    "description": "CODING CHEMISTRY, that is two days full of power with technologies, know-how, impulses from the chemical industry, contact opportunities, excellent catering and above all: lots of fun.",
+    "location": {
+      "name": "Musikpark",
+      "address": "Hafenstraße 49 ",
+      "city": "Mannheim",
+      "country": "Germany"
+    },
+    "studentsOnly": false,
+    "startDate": "2018-11-29",
+    "endDate": "2018-11-30",
+    "duration": 24,
+    "url": "https://www1.basf.com/hackathon/hackathon.en.html",
+    "travelReimbursement": true
   }
 ]
